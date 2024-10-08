@@ -55,7 +55,7 @@ function App() {
     <Blog/> 
     <Partners/>
     <Footer/>
-    <Try/>
+  
   
     </div>
   );
