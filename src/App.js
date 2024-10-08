@@ -12,6 +12,7 @@ import Banner2 from './Components/Banner/Banner2';
 import Blog from './Blog/Blog';
 import Partners from './Partners/Partners';
 import Footer from './Components/Footer/Footer';
+import Try from './Try';
 
 const BannerData=
   {
@@ -54,6 +55,7 @@ function App() {
     <Blog/> 
     <Partners/>
     <Footer/>
+    <Try/>
   
     </div>
   );
